@@ -13,7 +13,7 @@ This is an Object Detection script created using the YOLOv3 CNN model in python 
 # Example
 - python yolo.py --image dog.jpg --yolo yolo-coco
 
-https://github.com/olumide1128/Object-Detection-With-YOLOv3/blob/master/Screenshots/detections1.png
+![Image showing Object Detections](https://github.com/olumide1128/Object-Detection-With-YOLOv3/blob/master/Screenshots/detections1.png)
 
 
 Cheers!!
